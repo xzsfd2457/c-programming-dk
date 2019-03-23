@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-	char str[10];
+	char str[10000];
 	char copy;
 	int left,right,index=0;
      scanf("%s",str);
